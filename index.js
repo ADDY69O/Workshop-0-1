@@ -1,6 +1,6 @@
-console.log("Working on Devlopement Branch")
+console.log("Working on new-Features Branch")
 
-function Development(){
+function newFeatures(){
 
-    console.log("within the devlopment branch")
+    console.log("within the new features branch")
 }
