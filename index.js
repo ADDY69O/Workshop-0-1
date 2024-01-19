@@ -10,3 +10,7 @@ function newFeatures(){
     }
     working();
 }
+
+function main(){
+    console.log("here is the new main Function")
+}
