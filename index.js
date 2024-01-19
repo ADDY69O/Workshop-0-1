@@ -1,6 +1,6 @@
-console.log("Working on Master Branch")
+console.log("Working on Devlopement Branch")
 
-function master(){
+function Development(){
 
-    console.log("within the master branch")
+    console.log("within the devlopment branch")
 }
