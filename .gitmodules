@@ -1,0 +1,3 @@
+[submodule "subMod"]
+	path = subMod
+	url = https://github.com/ADDY69O/Workshop-01.git
